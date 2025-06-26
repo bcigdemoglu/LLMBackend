@@ -1,0 +1,19 @@
+# Web Framework
+fastapi>=0.115.0
+uvicorn>=0.32.0
+
+# Agent Framework
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+openai>=1.54.0
+
+# Database
+sqlmodel>=0.0.22
+psycopg[binary]>=3.2.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Utilities
+pydantic>=2.10.0
